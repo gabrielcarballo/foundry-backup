@@ -1,0 +1,25 @@
+{
+  "title": "Gabriel",
+  "id": "world.gabriel.2024-01-29.1706551655773",
+  "system": "dnd5e",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "requires": [],
+    "systems": [],
+    "recommends": [],
+    "conflicts": [],
+    "flags": {}
+  },
+  "description": "",
+  "version": "0",
+  "size": 26801,
+  "note": "definitivebackup",
+  "snapshotId": null,
+  "originalSize": 30704,
+  "createdAt": 1706551655773,
+  "packageId": "gabriel",
+  "type": "world"
+}
